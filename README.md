@@ -31,4 +31,3 @@ classDiagram
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
 ```
-![img](mermaid-diagram-2024-05-18-232058.png)
